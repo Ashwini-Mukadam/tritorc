@@ -1,0 +1,28 @@
+<html>
+
+<head>
+  <script type="text/javascript">
+    function CheckColors(val) {
+      var element = document.getElementById('color');
+      if (val == 'pick a color' || val == 'others')
+        element.style.display = 'block';
+      else
+        element.style.display = 'none';
+    }
+  </script>
+</head>
+
+<body>
+  <form action="submit.php">
+    <select name="color" onchange='CheckColors(this.value);'>
+      <option>pick a color</option>
+      <option value="red">RED</option>
+      <option value="blue">BLUE</option>
+      <option value="others">others</option>
+    </select>
+    <input type="text" name="color" id="color" style='display:none;' />
+    <button>Submit</button>
+  </form>
+</body>
+
+</html>

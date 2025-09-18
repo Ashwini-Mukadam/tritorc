@@ -1,0 +1,71 @@
+User-Agent: *
+Allow: /https://www.lg.tritorc.com/
+
+User-Agent: Googlebot
+Allow: /https://www.lg.tritorc.com/
+
+User-Agent: Googlebot-Image
+Allow: /https://www.lg.tritorc.com/
+
+User-Agent: MSNBot
+Allow: /https://www.lg.tritorc.com/
+
+User-Agent: Slurp
+Allow: /https://www.lg.tritorc.com/
+
+User-Agent: Lycos
+Allow: /https://www.lg.tritorc.com/
+
+User-Agent: Seekbot
+Allow: /https://www.lg.tritorc.com/
+
+User-Agent: Sistrix
+Allow: /https://www.lg.tritorc.com/
+
+User-Agent: SearchmetricsBot
+Allow: /https://www.lg.tritorc.com/
+
+User-Agent: BacklinkCrawler
+Allow: /https://www.lg.tritorc.com/
+
+User-Agent: SEOkicks-Robot
+Allow: /https://www.lg.tritorc.com/
+
+User-Agent: xovi
+Allow: /https://www.lg.tritorc.com/
+
+User-Agent: Googlebot-Mobile
+Allow: /https://www.lg.tritorc.com/
+
+User-Agent: Teoma
+Allow: /https://www.lg.tritorc.com/
+
+User-Agent: Gigabot
+Allow: /https://www.lg.tritorc.com/
+
+User-Agent: ia_archiver
+Allow: /https://www.lg.tritorc.com/
+
+User-Agent: Robozilla
+Allow: /https://www.lg.tritorc.com/
+
+User-Agent: baiduspider
+Allow: /https://www.lg.tritorc.com/
+
+User-Agent: naverbot
+Allow: /https://www.lg.tritorc.com/
+
+User-Agent: yeti
+Allow: /https://www.lg.tritorc.com/
+
+User-Agent: yahoo-mmcrawler
+Allow: /https://www.lg.tritorc.com/
+
+User-Agent: psbot
+Allow: /https://www.lg.tritorc.com/
+
+User-Agent: yahoo-blogs/v3.9
+Allow: /https://www.lg.tritorc.com/
+
+Crawl-delay: 20
+Sitemap: https://www.lg.tritorc.com/sitemap.xml
